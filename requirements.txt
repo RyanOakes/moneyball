@@ -1,0 +1,5 @@
+Python 3.5
+mathlib
+numpy
+pandas
+baseball .zip for data
